@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Dipbhakta007/jsf-jdbc" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ProjectPaths/ProjectPaths" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Aspire\IdeaProjects" />
